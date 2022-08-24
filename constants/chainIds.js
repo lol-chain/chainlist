@@ -1,4 +1,4 @@
-  const chainIds = {
+const chainIds = {
   0: "kardia",
   1: "ethereum",
   2: "expanse",
